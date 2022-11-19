@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouman1213&label=Profile%20views&color=0e75b6&style=flat" alt="nouman1213" /> </p>
 
-- 🌱 I’m currently learning and working flutter project
+- 🌱 I’m currently learning and working on flutter project
 
 - 🕺 I’m looking forward to collaborate on open source projects.
 
